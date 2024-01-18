@@ -10,8 +10,4 @@ python3 -m pip install pwinput
 ```bash
 python3 -m pip install email_validator
 ```
-Run
-```bash
-python3 main.py
-```
-to run the program and register. Run it again to start up the program.
+Run `python3 main.py` to run the program and register. Run it again to start up the program.
