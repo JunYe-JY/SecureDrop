@@ -11,3 +11,5 @@ python3 -m pip install pwinput
 python3 -m pip install email_validator
 ```
 Run `python3 main.py` to run the program and register. Run it again to start up the program.
+
+To send files, use `send <IP Address> <File>` in the shell to send files to another user.
