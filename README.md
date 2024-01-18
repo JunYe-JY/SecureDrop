@@ -5,6 +5,9 @@ SecureDrop is a command-line python program created to replicate the tool that s
 # How To Use
 Install various Python packages using pip:
 ```bash
+python3 -m pip install pycryptodome
+```
+```bash
 python3 -m pip install pwinput
 ```
 ```bash
